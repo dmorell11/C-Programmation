@@ -11,6 +11,7 @@ namespace CursoCoWorking
     {
         public string name;
         public int foot;
+        public int age;
 
         public Animal(string name, int foot)
         {
