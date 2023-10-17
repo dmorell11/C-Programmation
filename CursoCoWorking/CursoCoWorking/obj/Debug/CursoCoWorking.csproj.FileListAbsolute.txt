@@ -1,0 +1,7 @@
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\obj\Debug\CursoCoWorking.csproj.AssemblyReference.cache
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\obj\Debug\CursoCoWorking.csproj.CoreCompileInputs.cache
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\bin\Debug\CursoCoWorking.exe.config
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\bin\Debug\CursoCoWorking.exe
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\bin\Debug\CursoCoWorking.pdb
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\obj\Debug\CursoCoWorking.exe
+C:\Users\wisol\source\repos\CursoCoWorking\CursoCoWorking\obj\Debug\CursoCoWorking.pdb
