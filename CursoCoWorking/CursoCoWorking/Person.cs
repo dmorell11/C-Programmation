@@ -8,8 +8,15 @@ namespace CursoCoWorking
 {
     class Person
     {
-        public int age;
-        public string name;
+        private int age;
+        private string name;
+
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
 
         public Person(string name, int age)
         {
@@ -26,6 +33,16 @@ namespace CursoCoWorking
         public void Greet()
         {
             Console.WriteLine("Hello");
+        }
+
+        public int GetAge()
+        {
+            return this.age; 
+        }
+
+        public void SetAge(int newAge)
+        {
+            this.age = newAge; 
         }
 
     }

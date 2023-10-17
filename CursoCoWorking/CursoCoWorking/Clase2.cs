@@ -16,7 +16,7 @@ namespace CursoCoWorking
 
             PrintPersonData(juan, ana, num);
 
-            Console.WriteLine($"Name: {juan.name}, Num: {num}");
+            Console.WriteLine($"Name: {juan.Name}, Num: {num}");
         }
 
         public void PrintPersonData(Person person1, Person person2, int numPeople)
@@ -24,19 +24,19 @@ namespace CursoCoWorking
 
             Console.WriteLine($"Num: {numPeople}");
 
-            Console.WriteLine($"Name: {person1.name}, Age: {person1.age}");
+            Console.WriteLine($"Name: {person1.Name}, Age: {person1.GetAge()}");
 
-            person1.name = "pepe";
+            person1.Name = "pepe";
             numPeople = 8;
 
-            Console.WriteLine($"Name: {person1.name}, Age: {person1.age}");
-            Console.WriteLine($"Name: {person2.name}, Age: {person2.age}");
+            Console.WriteLine($"Name: {person1.Name}, Age: {person1.GetAge()}");
+            Console.WriteLine($"Name: {person2.Name}, Age: {person2.GetAge()}");
             Console.WriteLine($"Num: {numPeople}");
         }
 
         public void PrintPersonData(Person person)
         {
-            Console.WriteLine($"Name: {person.name}, Age: {person.age}");
+            Console.WriteLine($"Name: {person.Name}, Age: {person.GetAge()}");
         }
 
 

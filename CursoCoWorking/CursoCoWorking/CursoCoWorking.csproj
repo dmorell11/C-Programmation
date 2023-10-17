@@ -47,6 +47,7 @@
     <Compile Include="Animals.cs" />
     <Compile Include="Clase1.cs" />
     <Compile Include="Clase2.cs" />
+    <Compile Include="Clase3.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
