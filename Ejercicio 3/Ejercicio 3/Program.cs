@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_3
 {
+    public class exercise3
+    {
+    }
     /*
     Ejercicio: Creación de una clase de Productos
 
