@@ -1,0 +1,7 @@
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\wisol\Documents\Repositorios\C-Programmation\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

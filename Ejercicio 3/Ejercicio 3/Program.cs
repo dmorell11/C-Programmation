@@ -6,8 +6,61 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_3
 {
-    public class exercise3
+    public class Producto
     {
+        private string name;
+        private double price;
+        private int stock;
+
+        public Producto (string name, double price, int stock)
+        {
+            this.name = name;
+            this.price = price;
+            this.stock = stock;
+        }
+
+        public string Name
+        { get {
+                return name;
+            } set
+            {
+                this.name = value;
+            }
+        }
+        public double Price
+        {
+            get
+            {
+                return price;
+            }
+            set
+            {
+                if (value > 0)
+                {
+                    this.price = value;
+                }
+            }
+        }
+        public int Stock
+        {
+            get
+            {
+                return stock;
+            }
+            set
+            {
+                if (value >= 0)
+                {
+                    this.stock = value;
+                }
+            }
+        }
+
+    public double CalcularValorTotal()
+        {
+            return stock * price;
+        }
+
     }
     /*
     Ejercicio: Creación de una clase de Productos
@@ -37,6 +90,12 @@ namespace Ejercicio_3
     {
         static void Main(string[] args)
         {
+            Producto camiseta = new Producto("camiseta", 15, 5);
+            Console.WriteLine(camiseta.CalcularValorTotal());
+            camiseta.Price = 20;
+            Console.WriteLine(camiseta.CalcularValorTotal());
+
         }
+
     }
 }
